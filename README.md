@@ -45,7 +45,7 @@ NodeNPS is an application made to create an deploy Net Promoter Score (NPS) surv
 - Install dependencies using `yarn`
 - Run the app by typing `yarn dev`
 
-Now you can access the app on [`localhost:3000`](http://localhost:3000).
+Now you can access the app on [`localhost:3000`](http://localhost:3333).
 
 ## 📄 License
 
